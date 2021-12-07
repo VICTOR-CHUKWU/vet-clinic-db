@@ -13,7 +13,10 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 
 ## Authors
+👤 **Victor**
 
+- GitHub: [@VICTOR-CHUKWU](https://github.com/VICTOR-CHUKWU)
+- LinkedIn: [Victor-chukwu](https://www.linkedin.com/in/victor-chukwu-95a020143)
 
 
 ## 🤝 Contributing
