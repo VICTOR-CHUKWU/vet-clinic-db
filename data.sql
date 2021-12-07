@@ -1,0 +1,6 @@
+INSERT INTO animals(name, domestic, weight, location )
+VALUES('tiger', 'false', '100', 'Asia')
+INSERT INTO animals(name, domestic, weight, location )
+VALUES('lion', 'false', '120', 'Africa')
+INSERT INTO animals(name, domestic, weight, location )
+VALUES('cat', 'true', '50', 'Africa')
